@@ -18,14 +18,20 @@
     "cross-env": "^7.0.3",
     "express": "^4.19.2",
     "isbot": "^4.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "jsonwebtoken-esm": "^2.0.1",
     "morgan": "^1.10.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "reflect-metadata": "^0.2.2",
+    "remix-auth": "^3.7.0",
+    "tsyringe": "^4.8.0"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.10.2",
     "@types/compression": "^1.7.5",
     "@types/express": "^4.17.20",
+    "@types/jsonwebtoken": "^9.0.6",
     "@types/morgan": "^1.9.9",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
